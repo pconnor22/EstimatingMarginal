@@ -1,1 +1,1 @@
-# PNAS_EstimatingMarginal
+# EstimatingMarginal
